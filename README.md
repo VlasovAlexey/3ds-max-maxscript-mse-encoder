@@ -1,5 +1,8 @@
 # 3ds-max-maxscript-mse-encoder
-Just simple decrypt 3ds Max Encrypted .mse files. Download and extract files from GitHub. Run example_usage.bat and see to output folder.
+Just simple decrypt 3ds Max encrypted .mse files.
+
+# How to use
+Download and extract files from GitHub. Run example_usage.bat and see to output folder with result.
 
 # Change Log
 17 July 2025 - 0.6.4a   Added usage axample example_usage.bat. Removed outdated files. Added example files.
