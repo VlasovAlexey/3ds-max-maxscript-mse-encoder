@@ -3,6 +3,8 @@ Just simple decrypt 3ds Max encrypted .mse files.
 
 # How to use
 Download and extract files from GitHub. Run example_usage.bat and see to output folder with result.
+This decoder is based on QuickBMS. If you want to use Linux or other platforms you should get the QuickBMS here:
+https://github.com/LittleBigBug/QuickBMS.
 
 # Change Log
 17 July 2025 - 0.6.4a   Added usage example example_usage.bat. Removed outdated files. Added example files.
