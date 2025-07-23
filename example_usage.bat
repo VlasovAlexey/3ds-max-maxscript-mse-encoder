@@ -1,1 +1,1 @@
-encrypted_file.mse
+quickbms.exe Mse_Decrypter.txt input\encrypded_file.mse output
