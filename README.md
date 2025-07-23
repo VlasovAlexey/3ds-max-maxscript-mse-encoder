@@ -5,7 +5,7 @@ Just simple decrypt 3ds Max encrypted .mse files.
 Download and extract files from GitHub. Run example_usage.bat and see to output folder with result.
 
 # Change Log
-17 July 2025 - 0.6.4a   Added usage axample example_usage.bat. Removed outdated files. Added example files.
+17 July 2025 - 0.6.4a   Added usage example example_usage.bat. Removed outdated files. Added example files.
 
 29 May 2015 - 0.6.4     encryption PKCS5_PBKDF2_HMAC, BytesToKey and ZIP_AES (now zip.bms supports AES too), updated many compression algorithms (LZ4 was necessary for Witcher3), small fix for unzip_dynamic/bzip2
 
